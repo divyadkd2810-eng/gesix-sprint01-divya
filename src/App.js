@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Gesix Spirit 01 - Divya
         </a>
       </header>
     </div>
